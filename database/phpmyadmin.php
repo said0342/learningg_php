@@ -1,0 +1,10 @@
+<!--
+
+
+
+BTK AKADEMİDEN PHP MY ADMİNİN TEMELİ ÖĞRENİLDİ 
+HERHANGİ BİR KOD YAZILMADI
+
+
+
+-->
